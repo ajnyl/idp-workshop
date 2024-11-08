@@ -46,6 +46,6 @@ spec:
     - spotify
   providesApis:
     - petstore
- dependsOn:
-   - component:default/atarikerejay-service
- system: atarikerejay-system
+  dependsOn:
+    - component:default/atarikerejay-service
+  system: atarikerejay-system
